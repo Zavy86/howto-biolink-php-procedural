@@ -1,0 +1,58 @@
+body {
+  background-color: aliceblue;
+}
+
+section {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+img {
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+ul li {
+  margin-top: 9px;
+}
+
+ul li a {
+  display: block;
+  padding: 9px;
+  border: 1px solid blue;
+  background-color: dodgerblue;
+  text-decoration: none;
+  color: white;
+}
+
+small a {
+  color: black;
+  text-decoration: none;
+}
+
+input {
+  padding: 9px;
+  font-size: 14px;
+}
+
+.hidden {
+  display: none;
+}
+
+p {
+  padding: 9px;
+}
+
+p.success {
+  background-color: palegreen;
+}
+
+p.error {
+  background-color: lightpink;
+}
