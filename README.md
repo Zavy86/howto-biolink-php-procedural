@@ -8,7 +8,7 @@ di link ispirato a LinkTree tramite PHP Procedurale.
 
 ## Links
 - Demo: https://corso-php.000webhostapp.com
-- Video how-to: https://youtube.com/XXX  
+- Video how-to: https://youtube.com/KG11q3wusBI 
 - Playlist corso PHP 8: https://www.youtube.com/playlist?list=PLdYHjrPuGeKECBj1ApufowOXSi_py-6Hb
 
 ## Domande?
